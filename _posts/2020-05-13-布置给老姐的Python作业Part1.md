@@ -11,11 +11,6 @@ tags:
 一门编程语言的学习总是离不开IO(*Input & Output*)
 
 
-### Vim-binding
-
-Choose `evil`!
-
-
 ### 情景一
 
 假设你作为一个老师，一个同学第一次遇到你会和你打招呼，你需要作出相应的回应。
@@ -31,7 +26,9 @@ Output:
 Hello michael.
 ```
 
+#### 关键要素:
 
+`raw_input();str.split();print()`
 
 ### 情景二
 
@@ -51,14 +48,18 @@ Output:
 michael James Kobe
 ```
 
+#### 关键要素:
 
+`list数据结构;sort();Python分片`
 
 
 ### 情景三
 
 作为情景二的升级版本，你作为一个老师，拿到的是一个成绩单（假设情景二的输入都保存在文件中），你需要写一份奖状（将情景二的Output输出到文件中)，假设输入输出文件分别是*grade.txt*和*jiangzhuang.txt*
 
+#### 关键要素:
 
+`open();cloase();read();readlines();`
 
 
 
